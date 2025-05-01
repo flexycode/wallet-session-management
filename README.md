@@ -150,3 +150,4 @@ The application supports the following networks:
 ## License
 
 MIT
+# wallet-session-management
